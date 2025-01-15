@@ -44,7 +44,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone ~https://github.com/your_username/Stokify.git~  
+git clone https://github.com/your_username/Stokify.git  
 cd stokify  
 Import the project into your IDE.
 
